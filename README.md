@@ -2,6 +2,8 @@ This is my senior capstone project (Spring 2024).
 
 NOTE: Zip file in the repo contains the original complete project folder, without the Unity Logs folder, the Unity Temp Folder, and the Unity Library Folder
 
+---------------------------------------
+
 LICENSING INFORMATION
 - Artwork - 
 
