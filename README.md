@@ -1,6 +1,7 @@
 This is my senior capstone project (Spring 2024).
 
-NOTE: Zip file in the repo contains the original complete project folder, without the Unity Logs folder, the Unity Temp Folder, and the Unity Library Folder
+NOTE: Due to the file size of my scenes and uploading limitations, I have provided a zip file of the game.
+Zip file in the repo contains the original complete project folder, without the Unity Logs folder, the Unity Temp Folder, and the Unity Library Folder
 
 ---------------------------------------
 
